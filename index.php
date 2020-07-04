@@ -46,90 +46,38 @@
         <div class="row section-header" data-aos="fade-up">
             <div class="col-full">
                 <h3 class="subhead">Who We Are</h3>
-                <h1 class="display-1">We are a group of design driven individuals passionate about creating beautiful UI designs.</h1>
+                <h1 class="display-4">ABOUT MISS INNOVATION NIGERIA</h1>
             </div>
         </div>
         <div class="row" data-aos="fade-up">
             <div class="col-full">
                 <p class="lead">
-                Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Donec rutrum congue leo eget malesuada. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse. 
+                    The Miss  Innovation Nigeria World Organization is a company that advances and supports today's women through its Passion for Pageantry with a Purpose.
+                    Our mission is to bring out the personal bests women seek to achieve by cultivating their passions, self-image, and education in an environment that encourages the pursuit of purpose, promotes discipline, and supports the strengthening of character.
                 </p>
+                <P class="lead">
+                    Our vision it to attain global ranking in pageantry as a unique brand that relentlessly help young women find a sense of purpose, put them on the right track line and gives them the platform to fulfill their life quest.
+                    In a growing multicultural society, Miss  Innovation Nigeria represents the sure forum where women will learn how to work together towards a common goal, but at the same time be as competitive as possible.
+                </P>
             </div>
-        </div> <!-- end about-desc -->
-
-        <div class="row">
-                
-            <div class="about-process process block-1-2 block-tab-full">
-
-                <div class="process__vline-left"></div>
-                <div class="process__vline-right"></div>
-
-                <div class="col-block process__col" data-item="1" data-aos="fade-up">
-                    <div class="process__text">
-                        <h4>Define</h4>
-
-                        <p>
-                        Quos dolores saepe mollitia deserunt accusamus autem reprehenderit. Voluptas facere animi explicabo non quis magni recusandae. 
-                        Numquam debitis pariatur omnis facere unde. Laboriosam minus amet nesciunt est. Et saepe eos maxime tempore quasi deserunt ab.
-                        </p>
-                    </div>
-                </div>
-                <div class="col-block process__col" data-item="2" data-aos="fade-up">
-                    <div class="process__text">
-                        <h4>Design</h4>
-
-                        <p>
-                        Quos dolores saepe mollitia deserunt accusamus autem reprehenderit. Voluptas facere animi explicabo non quis magni recusandae. 
-                        Numquam debitis pariatur omnis facere unde. Laboriosam minus amet nesciunt est. Et saepe eos maxime tempore quasi deserunt ab.
-                        </p>
-                    </div>
-                </div>
-                <div class="col-block process__col" data-item="3" data-aos="fade-up">
-                    <div class="process__text">
-                        <h4>Build</h4>
-
-                        <p>
-                        Quos dolores saepe mollitia deserunt accusamus autem reprehenderit. Voluptas facere animi explicabo non quis magni recusandae. 
-                        Numquam debitis pariatur omnis facere unde. Laboriosam minus amet nesciunt est. Et saepe eos maxime tempore quasi deserunt ab.
-                        </p>
-                    </div>
-                </div>
-                <div class="col-block process__col" data-item="4" data-aos="fade-up">
-                    <div class="process__text">
-                        <h4>Launch</h4>
-
-                        <p>
-                        Quos dolores saepe mollitia deserunt accusamus autem reprehenderit. Voluptas facere animi explicabo non quis magni recusandae. 
-                        Numquam debitis pariatur omnis facere unde. Laboriosam minus amet nesciunt est. Et saepe eos maxime tempore quasi deserunt ab.
-                        </p>
-                    </div>
-                </div>
-
-            </div> <!-- end process -->
-
-        </div> <!-- end about-stats -->
-
-    </section> <!-- end s-about -->
+        </div>
+    </section>
 
     <section id='register' class="s-services light-gray">
-
         <div class="row section-header" data-aos="fade-up">
             <div class="col-full">
                 <h3 class="subhead">What We Do</h3>
                 <h1 class="display-1">We have everything you need to launch and grow a successful digital business.</h1>
             </div>
-        </div> <!-- end section-header -->
-
+        </div>
         <div class="row" data-aos="fade-up">
             <div class="col-full">
                 <p class="lead">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse. 
                 </p>
             </div>
-        </div> <!-- end about-desc -->
-
+        </div>
         <div class="row services-list block-1-3 block-m-1-2 block-tab-full">
-
             <div class="col-block service-item " data-aos="fade-up">
                 <div class="service-icon service-icon--brand-identity">
                     <i class="icon-tv"></i>

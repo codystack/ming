@@ -5,7 +5,7 @@
                 <h2 class="subhead">Our Gallery</h2>
                 <h1 class="display-1">Capture the fun and activities</h1>
             </div>
-        </div> <!-- end section-header -->
+        </div>
 
         <div class="row masonry-wrap">
             <div class="masonry">
@@ -575,7 +575,4 @@
                 </div>
             </div>
         </div>
-        
-            
-
     </section>
