@@ -51,11 +51,11 @@
         </div>
         <div class="row" data-aos="fade-up">
             <div class="col-full">
-                <p class="lead">
+                <p class="lead" style="text-align:justify;">
                     The Miss  Innovation Nigeria World Organization is a company that advances and supports today's women through its Passion for Pageantry with a Purpose.
                     Our mission is to bring out the personal bests women seek to achieve by cultivating their passions, self-image, and education in an environment that encourages the pursuit of purpose, promotes discipline, and supports the strengthening of character.
                 </p>
-                <P class="lead">
+                <P class="lead" style="text-align:justify;">
                     Our vision it to attain global ranking in pageantry as a unique brand that relentlessly help young women find a sense of purpose, put them on the right track line and gives them the platform to fulfill their life quest.
                     In a growing multicultural society, Miss  Innovation Nigeria represents the sure forum where women will learn how to work together towards a common goal, but at the same time be as competitive as possible.
                 </P>
@@ -66,97 +66,104 @@
     <section id='register' class="s-services light-gray">
         <div class="row section-header" data-aos="fade-up">
             <div class="col-full">
-                <h3 class="subhead">What We Do</h3>
-                <h1 class="display-1">We have everything you need to launch and grow a successful digital business.</h1>
+                <h3 class="subhead">REGISTRATION</h3>
+                <h1 class="display-4">Please kindly fill in your details correctly <br>in the form below.</h1>
             </div>
         </div>
         <div class="row" data-aos="fade-up">
-            <div class="col-full">
-                <p class="lead">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse. 
-                </p>
+
+            <div class="col-six">
+                <form>
+                <div class="row">
+                    <div class="col-six">
+                        <input class="full-width" type="text" placeholder="First Name" id="sampleInput">
+                    </div>
+                    <div class="col-six">
+                        <input class="full-width" type="text" placeholder="Last Name" id="sampleInput">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-six">
+                        <input class="full-width" type="email" placeholder="Email" id="sampleInput">
+                    </div>
+                    <div class="col-six">
+                        <input class="full-width" type="tel" placeholder="Phone Number" id="sampleInput">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-full">
+                        <input class="full-width" type="text" placeholder="Address" id="sampleInput">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-six">
+                        <input class="full-width" type="text" placeholder="Date of Birth (DD/MM/YYYY)" id="sampleInput">
+                    </div>
+                    <div class="col-six">
+                        <div class="cl-custom-select">
+                            <select class="full-width" id="sampleRecipientInput">
+                                <option data-display="State Of Origin">State Of Origin</option>
+                                <option value="Abia">Abia</option>
+                                <option value="Adamawa">Adamawa</option>
+                                <option value="Akwa Ibom">Akwa Ibom</option>
+                                <option value="Anambra">Anambra</option>
+                                <option value="Bauchi">Bauchi</option>
+                                <option value="Bayelsa">Bayelsa</option>
+                                <option value="Benue">Benue</option>
+                                <option value="Borno">Borno</option>
+                                <option value="Cross River">Cross River</option>
+                                <option value="Delta">Delta</option>
+                                <option value="Ebonyi">Ebonyi</option>
+                                <option value="Edo">Edo</option>
+                                <option value="Ekiti">Ekiti</option>
+                                <option value="Enugu">Enugu</option>
+                                <option value="Abuja">FCT - Abuja</option>
+                                <option value="Gombe">Gombe</option>
+                                <option value="Imo">Imo</option>
+                                <option value="Jigawa">Jigawa</option>
+                                <option value="Kaduna">Kaduna</option>
+                                <option value="Kano">Kano</option>
+                                <option value="Katsina">Katsina</option>
+                                <option value="Kebbi">Kebbi</option>
+                                <option value="Kogi">Kogi</option>
+                                <option value="Kwara">Kwara</option>
+                                <option value="Lagos">Lagos</option>
+                                <option value="Nasarawa">Nasarawa</option>
+                                <option value="Niger">Niger</option>
+                                <option value="Ogun">Ogun</option>
+                                <option value="Ondo">Ondo</option>
+                                <option value="Osun">Osun</option>
+                                <option value="Oyo">Oyo</option>
+                                <option value="Plateau">Plateau</option>
+                                <option value="Rivers">Rivers</option>
+                                <option value="Sokoto">Sokoto</option>
+                                <option value="Taraba">Taraba</option>
+                                <option value="Yobe">Yobe</option>
+                                <option value="Zamfara">Zamfara</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-six">
+                        <input class="full-width" type="text" placeholder="IG Handle" id="sampleInput">
+                    </div>
+                    <div class="col-six">
+                    <label for="photograph">Upload a photograph</label>
+                        <input class="full-width" type="file" id="sampleInput">
+                    </div>
+                </div>
+                <label class="add-bottom">
+                    <input type="checkbox" required>
+                    <span class="label-text">I agree with the <a href="#0">terms & conditions.</a></span>
+                </label>
+                <input class="btn--primary" type="submit" value="Submit">
+                </form>
+            </div>
+            <div class="col-six tab-full">
+                <img src="./images/portfolio/gallery/1.jpeg" style="height: 550px;">
             </div>
         </div>
-        <div class="row services-list block-1-3 block-m-1-2 block-tab-full">
-            <div class="col-block service-item " data-aos="fade-up">
-                <div class="service-icon service-icon--brand-identity">
-                    <i class="icon-tv"></i>
-                </div>
-                <div class="service-text">
-                    <h3 class="h4">Brand Identity</h3>
-                    <p>Nemo cupiditate ab quibusdam quaerat impedit magni. Earum suscipit ipsum laudantium. 
-                    Quo delectus est. Maiores voluptas ab sit natus veritatis ut. Debitis nulla cumque veritatis.
-                    Sunt suscipit voluptas ipsa in tempora esse soluta sint.
-                    </p>
-                </div>
-            </div>
-
-            <div class="col-block service-item" data-aos="fade-up">
-                <div class="service-icon  service-icon--illustration">
-                    <i class="icon-group"></i>
-                </div>
-                <div class="service-text">
-                    <h3 class="h4">Illustration</h3>
-                    <p>Nemo cupiditate ab quibusdam quaerat impedit magni. Earum suscipit ipsum laudantium. 
-                    Quo delectus est. Maiores voluptas ab sit natus veritatis ut. Debitis nulla cumque veritatis.
-                    Sunt suscipit voluptas ipsa in tempora esse soluta sint.
-                    </p>
-                </div>
-            </div>
-
-            <div class="col-block service-item" data-aos="fade-up">
-                <div class="service-icon  service-icon--web-design">
-                    <i class="icon-earth"></i>
-                </div>  
-                <div class="service-text">
-                    <h3 class="h4">Web Design</h3>
-                    <p>Nemo cupiditate ab quibusdam quaerat impedit magni. Earum suscipit ipsum laudantium. 
-                    Quo delectus est. Maiores voluptas ab sit natus veritatis ut. Debitis nulla cumque veritatis.
-                    Sunt suscipit voluptas ipsa in tempora esse soluta sint.
-                    </p>
-                </div>
-            </div>
-
-            <div class="col-block service-item" data-aos="fade-up">
-                <div class="service-icon service-icon--product-strategy">
-                    <i class="icon-cube"></i>
-                </div>
-                <div class="service-text">
-                    <h3 class="h4">Product Strategy</h3>
-                    <p>Nemo cupiditate ab quibusdam quaerat impedit magni. Earum suscipit ipsum laudantium. 
-                    Quo delectus est. Maiores voluptas ab sit natus veritatis ut. Debitis nulla cumque veritatis.
-                    Sunt suscipit voluptas ipsa in tempora esse soluta sint.
-                    </p>
-                </div>
-            </div>
-
-            <div class="col-block service-item" data-aos="fade-up">
-                <div class="service-icon  service-icon--ui-design">
-                    <i class="icon-window"></i>
-                </div>
-                <div class="service-text">
-                    <h3 class="h4">UI/UX Design</h3>
-                    <p>Nemo cupiditate ab quibusdam quaerat impedit magni. Earum suscipit ipsum laudantium. 
-                    Quo delectus est. Maiores voluptas ab sit natus veritatis ut. Debitis nulla cumque veritatis.
-                    Sunt suscipit voluptas ipsa in tempora esse soluta sint.
-                    </p>
-                </div>
-            </div>
-    
-            <div class="col-block service-item" data-aos="fade-up">
-                <div class="service-icon service-icon--mobile-dev">
-                    <i class="icon-lego-block"></i>
-                </div>
-                <div class="service-text">
-                    <h3 class="h4">Mobile Development</h3>
-                    <p>Nemo cupiditate ab quibusdam quaerat impedit magni. Earum suscipit ipsum laudantium. 
-                    Quo delectus est. Maiores voluptas ab sit natus veritatis ut. Debitis nulla cumque veritatis.
-                    Sunt suscipit voluptas ipsa in tempora esse soluta sint.
-                    </p>
-                </div>
-            </div>
-
-        </div> <!-- end services-list -->
 
     </section> <!-- end s-services -->
 
