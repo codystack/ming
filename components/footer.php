@@ -14,7 +14,6 @@
                 </p>
             </div>
         </div>
-
         <div class="row">
             <div class="col-full cl-copyright">
                 <span>
@@ -22,27 +21,19 @@
                 </span> 
             </div>
         </div>
-
         <div class="cl-go-top">
             <a class="smoothscroll" title="Back to Top" href="#top"><i class="icon-arrow-up" aria-hidden="true"></i></a>
         </div>
+    </section>
 
-    </section> <!-- end s-contact -->
-
-
-    <!-- photoswipe background
-    ================================================== -->
     <div aria-hidden="true" class="pswp" role="dialog" tabindex="-1">
-
         <div class="pswp__bg"></div>
         <div class="pswp__scroll-wrap">
-
             <div class="pswp__container">
                 <div class="pswp__item"></div>
                 <div class="pswp__item"></div>
                 <div class="pswp__item"></div>
             </div>
-
             <div class="pswp__ui pswp__ui--hidden">
                 <div class="pswp__top-bar">
                     <div class="pswp__counter"></div><button class="pswp__button pswp__button--close" title="Close (Esc)"></button> <button class="pswp__button pswp__button--share" title=
@@ -64,16 +55,12 @@
                     <div class="pswp__caption__center"></div>
                 </div>
             </div>
-
         </div>
-
     </div>
-
     <div id="preloader">
         <div id="loader">            
         </div>
     </div>
-
     <script src="js/jquery-3.2.1.min.js"></script>
     <script src="js/plugins.js"></script>
     <script src="js/main.js"></script>
