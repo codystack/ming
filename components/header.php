@@ -48,7 +48,7 @@
                     <li><a class="smoothscroll"  href="#contact" title="contact">Contact</a></li>
                 </ul>
     
-                <p>Perspiciatis hic praesentium nesciunt. Et neque a dolorum <a href='#0'>voluptatem</a> porro iusto sequi veritatis libero enim. Iusto id suscipit veritatis neque reprehenderit.</p>
+                <p>Do you have what it takes to be the NEXT! Miss Innovation Nigeria <a href='#register'>Register Now!</a></p>
     
                 <ul class="header-nav__social">
                     <li>
@@ -60,14 +60,8 @@
                     <li>
                         <a href="#0"><i class="fab fa-instagram"></i></a>
                     </li>
-                    <li>
-                        <a href="#0"><i class="fab fa-behance"></i></a>
-                    </li>
-                    <li>
-                        <a href="#0"><i class="fab fa-dribbble"></i></a>
-                    </li>
                 </ul>
-            </div>>
+            </div>
         </nav>
 
         <a class="header-menu-toggle" href="#0">
