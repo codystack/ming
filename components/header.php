@@ -52,13 +52,13 @@
     
                 <ul class="header-nav__social">
                     <li>
-                        <a href="#0"><i class="fab fa-facebook"></i></a>
+                        <a href="http://facebook.com/MissInnovationNig/"><i class="fab fa-facebook"></i></a>
                     </li>
                     <li>
-                        <a href="#0"><i class="fab fa-twitter"></i></a>
+                        <a href="https://twitter.com/missinnovation1"><i class="fab fa-twitter"></i></a>
                     </li>
                     <li>
-                        <a href="#0"><i class="fab fa-instagram"></i></a>
+                        <a href="https://www.instagram.com/miss_innovation_nig/"><i class="fab fa-instagram"></i></a>
                     </li>
                 </ul>
             </div>

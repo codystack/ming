@@ -21,15 +21,15 @@
         </ul>
         <ul class="home-social">
             <li class="home-social-title">Follow Us</li>
-            <li><a href="#0">
+            <li><a href="http://facebook.com/MissInnovationNig/">
                 <i class="fab fa-facebook"></i>
                 <span class="home-social-text">Facebook</span>
             </a></li>
-            <li><a href="#0">
+            <li><a href="https://twitter.com/missinnovation1">
                 <i class="fab fa-twitter"></i>
                 <span class="home-social-text">Twitter</span>
             </a></li>
-            <li><a href="#0">
+            <li><a href="https://www.instagram.com/miss_innovation_nig/">
                 <i class="fab fa-instagram"></i>
                 <span class="home-social-text">Instagram</span>
             </a></li>
